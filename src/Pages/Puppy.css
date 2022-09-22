@@ -1,0 +1,14 @@
+.ddiv{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-gap: 20px;
+}
+
+.ddog{
+    border: red solid 1px;
+    margin: auto;
+}
+.dimg{
+    width: 100%;
+    height: 100%;
+}

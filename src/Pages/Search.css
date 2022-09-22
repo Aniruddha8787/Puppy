@@ -1,0 +1,42 @@
+.res{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    margin-top: 30px;
+    grid-gap: 20px;
+    padding: 50px;
+}
+.frm{
+    margin: auto;
+    margin-top: 30px;
+    justify-items: center;
+
+}
+.in{
+    margin: auto;
+    justify-items: center;
+    width: 30%;
+    height: 50px;
+}
+.inp{
+    height: 40px;
+    width:20%;border-radius: 5px;
+}
+.inpb{
+    height: 42px;
+    margin-left: 10px;
+    background-color: aqua;
+}
+.inpb:hover{
+    cursor: pointer;
+}
+.imdiv{
+    border: 2px solid black;
+    height: 350px;
+}
+.im{
+    width: 100%;
+    height: 100%;
+}
+.dt{
+    margin-top: 50px;
+}

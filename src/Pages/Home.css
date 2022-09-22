@@ -1,0 +1,19 @@
+.nm{
+
+   display: grid;
+   grid-template-columns: repeat(4,1fr);
+   grid-gap: 30px;
+   margin-top: 50px;
+
+}
+.brd{
+    border: 3px solid black;
+    height: 50px;
+}
+.name{
+    font-size: large;
+    font-weight: bold;
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+}
